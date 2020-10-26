@@ -16,6 +16,8 @@ CREATE TABLE role (
     department_id INT NOT NULL
 );
 
+
+
 CREATE TABLE employee (
     id INT auto_increment PRIMARY KEY NOT NULL,
     first_name VARCHAR(30),
