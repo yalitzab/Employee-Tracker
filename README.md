@@ -27,6 +27,16 @@ To end the app ctrl+c
 
 Start the application by typing node app.js to run the app. The user will be prompted a series of options which will allow to view all departments, roles, and all employees. The user can also add a new department, a role and an employee. The app allows for the user to update an employee's role. 
 
-Walk
+[Walkthrough Video](https://github.com/yalitzab/Employee-Tracker/blob/main/assets/Employee%20Tracker%20MySQL.mp4)
+
+![alt text](https://github.com/yalitzab/Employee-Tracker/blob/main/assets/Employee%20Tracker%20MySQL.gif)
 
 ---
+
+## Badges
+
+[NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)
+
+## Questions
+
+[GitHub profile link: yalitzab](https://github.com/yalitzab)
